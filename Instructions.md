@@ -3,7 +3,7 @@ Mini project in Stochastic Optimization: Homologous finding
 
 BACKGROUND:
 
-HP-proteins are abstract type of 2D proteins which consist only two types: H (Hidrophobic amino acid) and P (Polar amino acid).
+HP-proteins are abstract type of 2D proteins which consist only two types of amino acid: H (Hidrophobic) and P (Polar).
 Our goal was to find pairs of such proteins which has the same structure but different sequence (i.e. homologous).
 
 INSTRUCTIONS: 
